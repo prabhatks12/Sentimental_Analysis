@@ -1,0 +1,1 @@
+•	A project to predict the sentiment of a person based on the text he writes, implemented in 2 ways, using Tflearn library for imdb database and using TextBlob API.
