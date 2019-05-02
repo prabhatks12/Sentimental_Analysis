@@ -11,3 +11,5 @@ This is a project to predict the sentiment of a users based on Twitter US Airlin
 - Take a string as user input and check its polarity for implementation purpose.
 
 ## Screenshots :
+Following image is a screenshot of a bar graph of polarity on a user defined sentance. 
+![Screenshot](https://user-images.githubusercontent.com/30776930/57084342-c6e3bd00-6d17-11e9-934d-6237b0f0b8af.png)
